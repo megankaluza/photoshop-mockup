@@ -1,11 +1,10 @@
-.container {
-  width: 1440px;
+/*.container {
+  width: 1400px;
   margin-left: auto;
   margin-right: auto;
-}
+}*/
 
 /*Header*/
-
 span {
   color: red;
 }
@@ -72,7 +71,6 @@ span {
 }
 
 /*Button*/
-
 .hire {
   font-size: 25px;
   font-family: "Avenir";
@@ -83,6 +81,10 @@ span {
   left: 716px;
   top: 482px;
   z-index: 13;
+}
+
+.hire:hover {
+  color: red;
 }
 
 .radius {
@@ -153,7 +155,7 @@ span {
   z-index: 19;
 }
 
-.boxBorderThree {
+.boxBorderOne {
   border-width: 1px;
   border-color: rgb(183, 183, 183);
   border-style: solid;
@@ -163,7 +165,7 @@ span {
   left: 282px;
   top: 783px;
   width: 298px;
-  height: 208px;
+  height: 230px;
   z-index: 18;
 }
 
@@ -211,7 +213,7 @@ span {
   left: 612px;
   top: 783px;
   width: 298px;
-  height: 208px;
+  height: 230px;
   z-index: 24;
 }
 
@@ -259,6 +261,170 @@ span {
   left: 942px;
   top: 783px;
   width: 298px;
-  height: 208px;
+  height: 230px;
   z-index: 30;
+}
+
+/*About Me*/
+.about {
+  font-size: 25px;
+  font-family: "Avenir";
+  color: rgb(13, 12, 12);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 280.844px;
+  top: 1138px;
+  z-index: 42;
+}
+
+.aboutContent {
+  font-size: 25px;
+  font-family: "Avenir";
+  color: rgb(4, 68, 68);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 280px;
+  top: 1209.603px;
+  width: 440px;
+  height: 265px;
+  z-index: 41;
+}
+
+.social {
+  position: absolute;
+  left: 280px;
+  top: 1500px;
+}
+
+/*What's New*/
+.new {
+  font-size: 25px;
+  font-family: "Avenir";
+  color: rgb(13, 12, 12);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 801.844px;
+  top: 1135px;
+  z-index: 54;
+}
+
+.thumbnailOne {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 802px;
+  top: 1208px;
+  width: 150px;
+  height: 100px;
+  z-index: 51;
+}
+
+.thumbnailOneContent {
+  font-size: 25px;
+  font-family: "Avenir";
+  color: rgb(4, 68, 68);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 981px;
+  top: 1206.603px;
+  width: 242px;
+  height: 25px;
+  z-index: 53;
+}
+
+.date {
+  font-size: 10.417px;
+  font-family: "Avenir";
+  color: rgb(129, 105, 105);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 981.937px;
+  top: 1245.812px;
+  z-index: 52;
+}
+
+.aboutDivider {
+  background-color: rgb(18, 52, 86);
+  position: absolute;
+  left: 802px;
+  top: 1341px;
+  width: 440px;
+  height: 1px;
+  z-index: 50;
+}
+
+
+.thumbnailTwo {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 802px;
+  top: 1372px;
+  width: 150px;
+  height: 100px;
+  z-index: 57;
+}
+
+.thumbnailTwoContent {
+  font-size: 25px;
+  font-family: "Avenir";
+  color: rgb(4, 68, 68);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 981px;
+  top: 1369.603px;
+  width: 242px;
+  height: 25px;
+  z-index: 59;
+}
+
+.dateTwo {
+  font-size: 10.417px;
+  font-family: "Avenir";
+  color: rgb(129, 105, 105);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 981.937px;
+  top: 1408.812px;
+  z-index: 58;
+}
+
+.background {
+  background-color: rgb(183, 183, 183);
+  position: absolute;
+  left: -38px;
+  top: 1094px;
+  width: 1604px;
+  height: 512px;
+  z-index: 39;
+}
+
+/*Copyright*/
+.copyright {
+  font-size: 21px;
+  font-family: "Avenir";
+  color: rgb(129, 105, 105);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 281px;
+  top: 1651.97px;
+  z-index: 64;
+}
+
+.portfolioFooter {
+  font-size: 25px;
+  font-family: "Avenir";
+  color: rgb(13, 12, 12);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 821px;
+  top: 1647.222px;
+  z-index: 63;
 }
