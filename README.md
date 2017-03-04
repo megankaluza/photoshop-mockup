@@ -16,7 +16,6 @@ _Objectives_
 
 ## Setup/Installation Requirements
 
-* _Check out the GitHub Pages: https://megankaluza.github.io/photoshop-mockup/_
 * _Clone this repository https://github.com/megankaluza/https://github.com/megankaluza/photoshop-mockup.git_
 * _Open in browser of your choice_
 
@@ -32,6 +31,7 @@ _No known bugs at this time_
 
 * _HTML_
 * _CSS_
+* _PhotoShop_
 
 ### License
 
