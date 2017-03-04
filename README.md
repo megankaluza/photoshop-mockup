@@ -5,6 +5,9 @@
 # _PhotoShop Mock-Up_
 ![screenshot](images/screen_shot.png)
 
+# _PhotoShop Live_
+![screenshot](images/screen_shot_live.png)
+
 ## Description
 
 _Objectives_
