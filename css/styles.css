@@ -399,7 +399,8 @@ span {
   position: absolute;
   left: -38px;
   top: 1094px;
-  width: 1604px;
+  /*width: 1604px;*/
+  width: 1525px;
   height: 512px;
   z-index: 39;
 }
