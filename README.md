@@ -1,4 +1,4 @@
-# _Personal Portfolio_
+# _PhotoShop_
 
 #### By _**Megan Kaluza**_
 
@@ -13,7 +13,6 @@ _Objectives_
 
 ## Setup/Installation Requirements
 
-* _mkaluza.com_
 * _Check out the GitHub Pages: https://megankaluza.github.io/photoshop-mockup/_
 * _Clone this repository https://github.com/megankaluza/https://github.com/megankaluza/photoshop-mockup.git_
 * _Open in browser of your choice_
